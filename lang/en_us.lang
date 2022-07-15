@@ -1,0 +1,289 @@
+
+//创造模式物品栏
+itemGroup.legenderaBlock=The Legend Era : Block
+itemGroup.legenderaCombat=The Legend Era : Combat
+itemGroup.legenderaTool=The Legend Era : Tool
+itemGroup.legenderaMiscellaneous=The Legend Era : Miscellaneous
+
+
+//固体方块
+tile.legendera.ObsidianChest.name=Obsidian Chest
+tile.legendera.GunpowderBlock.name=Gunpowder Block
+tile.legendera.NetherEnergyCore.name=Nether Energy Core
+tile.legendera.EnderEnergyCore.name=Ender Energy Core
+tile.legendera.PortalDevildom.name=Devildom Portal
+tile.legendera.PortalFrostTerritory.name=Frost Territory Portal
+tile.legendera.DevildomAmethystOre.name=Devildom Amethyst Ore
+tile.legendera.FrostyGemstoneOre.name=Frosty Gemstone Ore
+tile.legendera.DevildomAmethystBlock.name=Devildom Amethyst Block
+tile.legendera.FrostyGemstoneBlock.name=Frosty Gemstone Block
+tile.legendera.EvocationAltar.name=Evocation Altar
+tile.legendera.EvilkindGodAltar.name=Evilkind God Altar
+tile.legendera.RageCombatantAltar.name=Rage Combatant Altar
+tile.legendera.FrostNovaAltar.name=Frost Nova Altar
+tile.legendera.IllusionDoorDefault.name=Illusion Door Block
+tile.legendera.WitherRadiationGenerator.name=Wither Radiation Generator
+tile.legendera.QuartzFence.name=Quartz Fence
+tile.legendera.QuartzWall.name=Quartz Wall
+tile.legendera.QuartzFenceGate.name=Quartz Wall Gate
+
+tile.legendera.PortalDevildom.info_1=Stand on this block and then right click this block to transfer while your main hand is empty and you are in the sneaking state.
+tile.legendera.PortalDevildom.info_2=Matters needing attention :
+tile.legendera.PortalDevildom.info_3=Devildom Portal will transfer players to the other dimension in the same coordinates as before transferring.
+
+tile.legendera.PortalFrostTerritory.info_1=Stand on this block and then right click this block to transfer while your main hand is empty and you are in the sneaking state.
+tile.legendera.PortalFrostTerritory.info_2=Matters needing attention :
+tile.legendera.PortalFrostTerritory.info_3=Frost Territory Portal will transfer players to the other dimension in the same coordinates as before transferring.
+
+tile.legendera.WitherRadiationGenerator.info_1=This block needs redstone charge.
+tile.legendera.WitherRadiationGenerator.info_2=When this block is triggered  , it will give all creatures in the action range the 10 second wither effect.
+tile.legendera.WitherRadiationGenerator.info_3=The action range is the cube range with the edge length of 15m with this block as the geometric center.
+
+
+//流体方块
+tile.legendera.LiquidRedstone.name=Liquid Redstone
+
+
+//流体
+fluid.LiquidRedstone=Liquid Redstone
+
+
+//武器
+item.legendera.DevildomAmethystSword.name=Devildom Amethyst Sword
+item.legendera.FlameSword.name=Flame Sword
+item.legendera.LightAdjudication.name=Light Adjudication
+item.legendera.RageBlade.name=Rage Blade
+item.legendera.MortalWorldDestroyer.name=Mortal World Destroyer
+item.legendera.FatalDecay.name=Fatal Decay
+item.legendera.SoulDisintegrator.name=Soul Disintegrator
+item.legendera.FrostNovaSword.name=Frost Nova Sword
+item.legendera.DoomsdayScar.name=Doomsday Scar
+item.legendera.SoulDevourer.name=Soul Devourer
+item.legendera.FlameBattleAxe.name=Flame Battle Axe
+item.legendera.SoulReapingSickle.name=Soul Reaping Sickle
+item.legendera.ExplosiveBow.name=Explosive Bow
+item.legendera.SkyBreakerBow.name=Sky Breaker Bow
+item.legendera.WitherWand.name=Wither Wand
+item.legendera.LightingWand.name=Lighting Wand
+item.legendera.BlackHoleWand.name=Black Hole Wand
+item.legendera.AssaultRifle.name=Assault Rifle
+item.legendera.TNTLauncher.name=TNT Launcher
+item.legendera.FlameThrower.name=Flame Thrower
+item.legendera.PlasmaLauncher.name=Plasma Launcher
+item.legendera.GammaRayGun.name=Gamma Ray Gun
+item.legendera.NeutronBombLauncher.name=Neutron Bomb Launcher
+item.legendera.ExplosiveArrow.name=Explosive Arrow
+item.legendera.IronBullet.name=Iron Bullet
+item.legendera.GoldBullet.name=Gold Bullet
+item.legendera.DiamondBullet.name=Diamond Bullet
+
+item.legendera.LightAdjudication.info_1=Cause additional damage to the target.
+item.legendera.LightAdjudication.info_2=The additional damage is equal to the light level of the user's position.
+
+item.legendera.MortalWorldDestroyer.info_1=Cause additional damage to the target.
+item.legendera.MortalWorldDestroyer.info_2=The additional damage is equal to the target's current HP divided by 10.
+item.legendera.MortalWorldDestroyer.info_3=The maximum additional damage is 20.
+
+item.legendera.FatalDecay.info_1=Cause additional damage to the target.
+item.legendera.FatalDecay.info_2=The additional damage is equal to the target's lost HP divided by 10.
+item.legendera.FatalDecay.info_3=The maximum additional damage is 10.
+
+item.legendera.SoulDisintegrator.info_1=Cause additional damage to the target.
+item.legendera.SoulDisintegrator.info_2=The additional damage is equal to the target's max HP divided by 10.
+item.legendera.SoulDisintegrator.info_3=The maximum additional damage is 20.
+
+item.legendera.FrostNovaSword.info_1=Make the target slowness and weakness and the effects will last for 10 seconds.
+item.legendera.FrostNovaSword.info_2=You can use skill Frost Hoop when you right click in the in the sneaking state.
+item.legendera.FrostNovaSword.info_3=Frost Hoop will cause 20 frost magic damage to all creatures around you.
+item.legendera.FrostNovaSword.info_4=Using Frost Hoop will cause 20 damage to this weapon.
+
+item.legendera.DoomsdayScar.info_1=Cause additional damage to the target.
+item.legendera.DoomsdayScar.info_2=The additional damage is equal to the value of the target's volume.
+item.legendera.DoomsdayScar.info_3=The maximum additional damage is 20.
+
+item.legendera.SoulDevourer.info_1=Each time you kill a creature , this weapon will accumulate 1 soul.
+item.legendera.SoulDevourer.info_2=Cause additional damage to the target.
+item.legendera.SoulDevourer.info_3=The additional damage is equal to the value of the current accumulated souls divided by 10.
+item.legendera.SoulDevourer.info_4=The maximum additional damage is 30.
+item.legendera.SoulDevourer.info_5=The current accumulated souls
+
+item.legendera.FlameBattleAxe.info_1=When you are in the sneaking state , right click on a block to turn it into lava.
+item.legendera.FlameBattleAxe.info_2=This behavior will cause 10 damage to this weapon.
+
+item.legendera.SoulReapingSickle.info=Make the target wither and weakness and the effects will last for 10 seconds.
+
+item.legendera.ExplosiveBow.info_1=Each shot consumes one Explosive Arrow.
+
+item.legendera.SkyBreakerBow.info_1=Each shot consumes one arrow.
+item.legendera.SkyBreakerBow.info_2=The arrows from this bow are not affected by gravity.
+
+item.legendera.WitherWand.info=Right click to launch wither skull.
+
+item.legendera.LightingWand.info=Right click to launch lighting ball.
+
+item.legendera.BlackHoleWand.info=Press and hold the right mouse button for at least 3 seconds and release it to launch a black hole.
+item.legendera.BlackHoleWand.info_2=The black hole will draw blocks and creatures around it , and it will cause damage to creatures that come near it.
+
+item.legendera.AssaultRifle.info_1=Right click to open fire.
+item.legendera.AssaultRifle.info_2=Open fire only when there are bullets in your bag.
+
+item.legendera.TNTLauncher.info_1=Press and hold the right mouse button for at least 2 seconds and release it to launch a shell.
+item.legendera.TNTLauncher.info_2=Open fire only when there are TNT in your bag.
+
+item.legendera.PlasmaLauncher.info_1=Press and hold the right mouse button for at least 3 seconds and release it to launch a plasma.
+
+item.legendera.GammaRayGun.info_1=Press and hold the right mouse button for at least 3 seconds and release it to launch a gamma ray.
+item.legendera.GammaRayGun.info_2=The gamma ray can causes 50 real damage to the first creature it hits and it can penetrate blocks.
+item.legendera.GammaRayGun.info_3=The gamma ray can penetrate blocks.
+
+item.legendera.NeutronBombLauncher.info_1=Press and hold the right mouse button for at least 3 seconds and release it to launch a neutron bomb.
+item.legendera.NeutronBombLauncher.info_2=When a neutron bomb hits a block or entity, it will cause 50 real damage to all creatures around it.
+
+
+//工具
+item.legendera.DevildomAmethystPickaxe.name=Devildom Amethyst Pickaxe
+item.legendera.DevildomAmethystAxe.name=Devildom Amethyst Axe
+item.legendera.DevildomAmethystShovel.name=Devildom Amethyst Shovel
+item.legendera.DevildomAmethystHoe.name=Devildom Amethyst Hoe
+item.legendera.EvocationWand.name=Evocation Wand
+item.legendera.DevildomPortalWand.name=Devildom Portal Wand
+item.legendera.FrostTerritoryPortalWand.name=Frost Territory Portal Wand
+item.legendera.LeafRemovalSpray.name=Leaf Removal Spray
+
+item.legendera.LeafRemovalSpray.info_1=When you are in the sneaking state , right click to destroy all the leaves block around you.
+
+
+//铠甲
+item.legendera.DevildomAmethystHelmet.name=Devildom Amethyst Helmet
+item.legendera.DevildomAmethystChestplate.name=Devildom Amethyst Chestplate
+item.legendera.DevildomAmethystLeggings.name=Devildom Amethyst Leggings
+item.legendera.DevildomAmethystBoots.name=Devildom Amethyst Boots
+
+
+//杂项
+item.legendera.IronBar.name=Iron Bar
+item.legendera.QuartzStick.name=Quartz Stick
+item.legendera.GunpowderPellet.name=Gunpowder Pellet
+item.legendera.FlameEssence.name=Flame Essence
+item.legendera.FrostEssence.name=Frost Essence
+item.legendera.SoulEssence1.name=Soul Essence I
+item.legendera.SoulEssence2.name=Soul Essence II
+item.legendera.SoulEssence3.name=Soul Essence III
+item.legendera.SoulEssence4.name=Soul Essence IV
+item.legendera.SoulEssence5.name=Soul Essence V
+item.legendera.DevildomAmethyst.name=Devildom Amethyst
+item.legendera.FrostyGemstone.name=Frosty Gemstone
+item.legendera.EvilkindPowerCore.name=Evilkind Power Core
+item.legendera.EvilkindLifeEssence.name=Evilkind Life Essence
+item.legendera.EvilkindLeaderSignet.name=Evilkind Leader Signet
+item.legendera.EvilkindGodToken.name=Evilkind God Token
+item.legendera.EvilkindGodCore.name=Evilkind God Core
+item.legendera.ShadowHeart.name=Shadow Heart
+item.legendera.FrostNovaMemento.name=Frost Nova Memento
+item.legendera.LightningCharge.name=Lightning Charge
+
+item.legendera.EvilkindPowerCore.info_1=The loot of killing Evilkind Gunman and Evilkind Air Raider.
+
+item.legendera.EvilkindLifeEssence.info_1=The loot of killing Soul Reaper and Hermit.
+
+item.legendera.EvilkindLeaderSignet.info_1=The loot of killing Devildom Lord.
+
+item.legendera.LightningCharge.info=Right click on a block to spawn lighting.
+
+
+//附魔
+enchantment.legendera.SoulExtraction=Soul Extraction
+enchantment.legendera.Overload=Overload
+enchantment.legendera.Sacrifice=Sacrifice
+
+
+//实体
+entity.EvilkindMerchant.name=Evilkind Merchant
+entity.EvilkindArmsDealer.name=Evilkind Arms Dealer
+entity.SoulMerchant.name=Soul Merchant
+entity.FrosterMerchant.name=Froster Merchant
+
+entity.WitherMage.name=Wither Mage
+entity.SoulReaper.name=Soul Reaper
+entity.Hermit.name=Hermit
+entity.EvilkindGunman.name=Evilkind Gunman
+entity.EvilkindBerserker.name=Evilkind Berserker
+entity.EvilKindAirRaider.name=Evilkind Air Raider
+entity.DevildomLord.name=Devildom Lord
+entity.FrostSpider.name=Frost Spider
+entity.FrostSpider.name=Frost Spider
+entity.FrostSerpent.name=Frost Serpent
+entity.FrostGiant.name=Frost Giant
+entity.EnderReaper.name=Ender Reaper
+entity.DesertScorpion.name=Desert Scorpion
+entity.EmperorScorpion.name=Emperor Scorpion
+entity.MutantMosquito.name=Mutant Mosquito
+entity.Hammerhead.name=Hammerhead
+entity.FlameDevil.name=Flame Devil
+entity.RailgunTank.name=Railgun Tank
+entity.AttackHelicopter.name=Attack Helicopter
+
+entity.EvilkindGod.name=Evilkind God
+entity.RageCombatant.name=Rage Combatant
+entity.ShadowDemon.name=Shadow Demon
+entity.DoubleGhostWhite.name=Double Ghost-The White
+entity.DoubleGhostBlack.name=DoubleGhost-The Black
+entity.ExplosionKing.name=Explosion King
+entity.FrostNova.name=Frost Nova
+entity.StormDeity.name=Storm Deity
+
+
+//进度
+advancement.legendera.root=The Legend Era
+advancement.legendera.root.desc=Welcome to the Legend Era!
+
+advancement.legendera.enter_devildom=Enter Devildom
+advancement.legendera.enter_devildom.desc=Build the Devildom Portal and enter the Devildom.
+
+advancement.legendera.devildom_amethyst=Devildom Amethyst Sparkle
+advancement.legendera.devildom_amethyst.desc=Get a devildom amethyst.
+
+advancement.legendera.evilkind_hunter=Evilkind Hunter
+advancement.legendera.evilkind_hunter.desc=Get a Evilkind God Token.
+
+advancement.legendera.defeat_evilkind_god=Devildom God Killer
+advancement.legendera.defeat_evilkind_god.desc=Defeat the Evilkind God.
+
+advancement.legendera.defeat_rage_combatant=Rage Terminator
+advancement.legendera.defeat_rage_combatant.desc=Defeat the Rage Combatant.
+
+advancement.legendera.defeat_shadow_demon=Shadow Eliminator
+advancement.legendera.defeat_shadow_demon.desc=Defeat the Shadow Demon.
+
+advancement.legendera.defeat_explosion_king=Explosion Resister
+advancement.legendera.defeat_explosion_king.desc=Defeat the Explosion King.
+
+advancement.legendera.defeat_double_ghost=Double Ghost Punisher
+advancement.legendera.defeat_double_ghost.desc=Defeat the Double Ghost and get the weapon Soul Disintegrator.
+
+advancement.legendera.enter_frost_territory=Enter Frost Territory
+advancement.legendera.enter_frost_territory.desc=Build the Frost Territory Portal and enter the Frost Territory.
+
+advancement.legendera.defeat_frost_nova=Frost Nova Redeemer
+advancement.legendera.defeat_frost_nova.desc=Defeat the Frost Nova.
+
+
+//GUI
+GUI.container.obsidian_chest=Obsidian Chest
+GUI.container.obsidian_chest_large=Large Obsidian Chest
+
+
+//玩家死亡信息
+death.attack.enchantment_sacrifice=%1$s die of the enchantment Sacrifice
+death.attack.frost_magic=%1$s die of the frost magic
+
+
+//杂类信息
+addInformation.beforeShift=Press shift to view information.
+
+
+//Patchouli
+patchouli.legendera.legend_recorder.name=Legend Recorder
+patchouli.legendera.legend_recorder.landing_text=This book introduces the basic information of The Legend Era Mod.
+
+
